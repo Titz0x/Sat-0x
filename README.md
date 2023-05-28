@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc2NmQ4YzZjZTg5NDQ4YTQ5YTMwMzAxM2RhZWNiM2JkZjYzMGIxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UFGj6EYw5JhMQ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc2NmQ4YzZjZTg5NDQ4YTQ5YTMwMzAxM2RhZWNiM2JkZjYzMGIxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UFGj6EYw5JhMQ/giphy.gif" width="250"/>
 </div>
 
 # Hi, my name is Sat
-  I am a student who is interested in information security)
+  I am a student who is interested in information security
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
 - In my free time I am engaged in: CTF solution, taking courses, studying Web directions, Python and my projects
 - I dream of founding a full-scale security audit company in the style of Red Team
-- Linux connoisseur )
+- Linux connoisseur
 - Co-founder [company](https://github.com/Vespe-Killers)
 - My [certificates](https://github.com/Sat-0x/Portfolio)
 - My [tryhackme](https://tryhackme.com/profile)
