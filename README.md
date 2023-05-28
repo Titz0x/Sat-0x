@@ -10,10 +10,10 @@
 - I dream of founding a full-scale security audit company in the style of Red Team
 - Linux connoisseur )
 - Co-founder [company](https://github.com/Vespe-Killers)
-- Mои [certificates](https://github.com/Sat-0x/Portfolio)
-- Мой [tryhackme](https://tryhackme.com/profile)
-- Мой [hackthebox](https://app.hackthebox.com/profile/1438096)
-- Мой [root-me](https://www.root-me.org/Sat)
+- My [certificates](https://github.com/Sat-0x/Portfolio)
+- My [tryhackme](https://tryhackme.com/profile)
+- My [hackthebox](https://app.hackthebox.com/profile/1438096)
+- My [root-me](https://www.root-me.org/Sat)
 - My telegram: https://t.me/Sat_404
 
 
