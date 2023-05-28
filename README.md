@@ -18,7 +18,7 @@
 
 
 # SKILLS
-- Computer Networks
+- Computer Networks 🖧
 - Programming 
    - Python
 - Virtualization and containerization
