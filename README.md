@@ -33,6 +33,7 @@
     - Windows Server (2016/2019)
 - Protection
     - Fail2ban
+    - Suricata
 - Audit Wi-Fi
   - wifiphisher
   - aircrack-ng
