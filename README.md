@@ -14,7 +14,7 @@
 - My [tryhackme](https://tryhackme.com/profile)
 - My [hackthebox](https://app.hackthebox.com/profile/1438096)
 - My [root-me](https://www.root-me.org/Sat)
-- My telegram: https://t.me/Sat_404
+- My telegram: https://t.me/Sat_0x
 
 
 # SKILLS
