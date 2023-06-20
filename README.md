@@ -8,14 +8,23 @@
 My Blog - https://t.me/Red_Wasp
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
+
 - In my free time I am engaged in: CTF solution, taking courses, studying Web directions, Python and my projects
+
 - I dream of founding a full-scale security audit company in the style of Red Team
+
 - Linux connoisseur
+
 - Co-founder [company](https://github.com/Vespe-Killers)
+
 - My [certificates](https://github.com/Sat-0x/Portfolio)
+
 - My [tryhackme](https://tryhackme.com/profile)
+
 - My [hackthebox](https://app.hackthebox.com/profile/1438096)
+
 - My [root-me](https://www.root-me.org/Sat)
+
 - My telegram: https://t.me/Sat_0x
 
 
