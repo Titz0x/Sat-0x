@@ -4,6 +4,7 @@
 
 # Hi, my name is Sat
   I am a student who is interested in information security
+  My Blog - https://t.me/Red_Wasp
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
 - In my free time I am engaged in: CTF solution, taking courses, studying Web directions, Python and my projects
