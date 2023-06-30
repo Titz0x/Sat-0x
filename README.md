@@ -5,7 +5,7 @@
 # Hi, my name is Sat
   I am a student who is interested in information security
   
-My Blog - https://t.me/Red_Wasp
+My [Blog](https://t.me/Black_Vespe)
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
 
