@@ -17,7 +17,7 @@
 
 - Linux connoisseur
 
-- Co-founder [company](https://github.com/Vespe-Killers)
+- CTF member of team ['Friends/NMB unit 6l'](https://ctftime.org/team/206982)
 
 - My [certificates](https://github.com/Sat-0x/Portfolio)
 
