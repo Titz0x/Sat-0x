@@ -22,12 +22,12 @@
 - My [certificates](https://github.com/Sat-0x/Portfolio)
 
 - My [tryhackme](https://tryhackme.com/profile)
-
-- My [hackthebox](https://app.hackthebox.com/profile/1438096)
-
+- My [picoCTF](https://play.picoctf.org/users/Sat-0x)
 - My [root-me](https://www.root-me.org/Sat)
-
-- My telegram: https://t.me/Sat_0x
+- My [Codeby Games](Sat0x)
+- My [Stepik](https://stepik.org/users/596971702/profile)
+- My [CodeWars](https://www.codewars.com/users/Sat-0x)
+- My [telegram](https://t.me/Sat_0x)
 
 
 # SKILLS
