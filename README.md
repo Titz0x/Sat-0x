@@ -3,8 +3,11 @@
 </div>
 
 # Hi, my name is Sat
-- I'm a student with a passion for information security                                                          
+- I'm a student with a passion for information security  
+                                                        
 - My [100-days-of-cybersecurity](https://github.com/Sat-0x/100-days-of-Information-Security)
+
+- - My [Telegram](https://t.me/Sat_0x)
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
 
@@ -21,7 +24,7 @@
 - My [Codeby Games](Sat0x)
 - My [Stepik](https://stepik.org/users/596971702/profile)
 - My [CodeWars](https://www.codewars.com/users/Sat-0x)
-- My [telegram](https://t.me/Sat_0x)
+
 
 
 # SKILLS
