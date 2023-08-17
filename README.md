@@ -69,6 +69,7 @@
   - Hydra
   - Acunetix
   - John The Ripper
+  - Metaslpoit (meterpreter+msfconsole)
   - BloodHound
   - LinPEAS
 
