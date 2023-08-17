@@ -18,7 +18,7 @@
 - CTF member of team [Friends/NMB unit 6l](https://ctftime.org/team/206982)
 
 - My [certificates](https://github.com/Sat-0x/Portfolio)
-- My [tryhackme](https://tryhackme.com/profile)  <script src="https://tryhackme.com/badge/1781250"></script>
+- My [tryhackme](https://tryhackme.com/profile)   <img src="https://tryhackme-badges.s3.amazonaws.com/CNW.1.png" alt="TryHackMe">
 - My [picoCTF](https://play.picoctf.org/users/Sat-0x)
 - My [root-me](https://www.root-me.org/Sat)
 - My [Codeby Games](Sat0x)
