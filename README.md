@@ -9,8 +9,7 @@
 - I am studying in the specialty "Information Security" in college (2/4)
 
 - In my spare time I solve CTF/Labs, learn web pentest and programming (Python / JavaScript)
-- I dream of founding a full-scale security audit company in the style of Red Team
-
+- I want to build a career in the field of web application auditing, and with work experience create a company specializing in Red Team
 - Linux connoisseur
 
 - CTF member of team [Friends/NMB unit 6l](https://ctftime.org/team/206982)
