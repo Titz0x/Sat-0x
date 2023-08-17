@@ -3,13 +3,12 @@
 </div>
 
 # Hi, my name is Sat
-I'm a student with a passion for information security                                                          
-My [100-days-of-cybersecurity](https://github.com/Sat-0x/100-days-of-Information-Security)
+- I'm a student with a passion for information security                                                          
+- My [100-days-of-cybersecurity](https://github.com/Sat-0x/100-days-of-Information-Security)
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
 
-- In my free time I am engaged in: CTF solution, taking courses, studying Web directions, Python and my projects
-
+- In my spare time I solve CTF/Labs, learn web pentest and programming (Python / JavaScript)
 - I dream of founding a full-scale security audit company in the style of Red Team
 
 - Linux connoisseur
