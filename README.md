@@ -30,15 +30,17 @@
 
 # SKILLS
 - Computer Networks 🖧
+  - Course 'Созыкина'
 - Programming 
-   - Python
+   - Python (low)
+   - JavaScript (low)
 - Virtualization and containerization
-   - Docker
+   - Docker (low)
    - VirtualBox
    - VMware
    - Qemu
  - OS
-    - Linux
+    - Linux (debian-based)
     - Ubuntu Server
     - Windows
     - Windows Server (2016/2019)
@@ -50,18 +52,26 @@
   - aircrack-ng
   - Fluxion
 - Web
+  - OS Command Injections
+  - PHP injections
   - LFI
   - RFI
-  - SSRF
-  - XSS
+  - SSRF (low)
+  - XSS (low)
   - HTML Injection
-  - SQL Injection
+  - SQL Injection (low)
 - Tools
-  - Nmap
-  - burpsuite
-  - hashcat
-  - ghidra
-
+  - Nmap / Masscan
+  - Burp Suite PRO + BurpBounty
+  - ffuf, gobuster
+  - Exiftool
+  - Maltego
+  - Hashcat
+  - Hydra
+  - Acunetix
+  - John The Ripper
+  - BloodHound
+  - LinPEAS
 
 
 <!---
