@@ -28,7 +28,7 @@
 # SKILLS
 - Computer Networks 🖧
   - Course 'Созыкина'
-  - Book 'Computer Networks by Victor Olifer'
+  - Book 'Computer Networks by Victor Olifer' (start)
 - Programming 
    - Python (low)
    - JavaScript (low)
