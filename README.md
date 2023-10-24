@@ -29,6 +29,7 @@
 # SKILLS
 - Computer Networks 🖧
   - Course 'Созыкина'
+  - Book 'Computer Networks by Victor Olifer'
 - Programming 
    - Python (low)
    - JavaScript (low)
@@ -39,9 +40,9 @@
    - Qemu
  - OS
     - Linux (debian-based)
-    - Ubuntu Server
+    - Ubuntu Server [+ FreeIPA]
     - Windows
-    - Windows Server (2016/2019)
+    - Windows Server (2016/2019) + AD (low)
 - Protection
     - Fail2ban
     - Suricata
@@ -49,6 +50,7 @@
   - wifiphisher
   - aircrack-ng
   - Fluxion
+  - RouterScan
 - Web
   - OS Command Injections
   - PHP injections
