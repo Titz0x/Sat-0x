@@ -19,7 +19,6 @@
 - My [certificates](https://github.com/Sat-0x/Portfolio)
 - My [tryhackme](https://tryhackme.com/profile)  
 - My [picoCTF](https://play.picoctf.org/users/Sat-0x)
-- My [root-me](https://www.root-me.org/Sat)
 - My [Codeby Games](Sat0x)
 - My [Stepik](https://stepik.org/users/596971702/profile)
 - My [CodeWars](https://www.codewars.com/users/Sat-0x)
