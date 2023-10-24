@@ -5,7 +5,7 @@
 # Hi, my name is Sat
 - I'm a student with a passion for information security  
                                                         
-- My [100-days-of-cybersecurity](https://github.com/Sat-0x/100-days-of-Information-Security)
+- My [100-days-of-cybersecurity](soon update)
 
 # WHOAMI
 - I am studying in the specialty "Information Security" in college (2/4)
